@@ -1,0 +1,14 @@
+﻿"DB_of_students.exe" (Win32). Загружено "C:\Users\savin\OneDrive\Рабочий стол\DB_of_students-master\x64\Debug\DB_of_students.exe". Символы загружены.
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 0x47d0 завершился с кодом 0 (0x0).
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". 
+"DB_of_students.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". 
+Поток 0x30b0 завершился с кодом 0 (0x0).
+Поток 0x1458 завершился с кодом 0 (0x0).
+Программа "[15020] DB_of_students.exe" завершилась с кодом 0 (0x0).
